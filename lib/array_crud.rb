@@ -45,6 +45,7 @@ end
 
 def update_element_from_index(array, index_number, element)
 []
-array.fetch[4] = "totally"
+array[4] = "totally"
+=> "totally"
 
 end
