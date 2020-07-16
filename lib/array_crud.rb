@@ -45,6 +45,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 []
-array.fetch(4, "Totally")
-array
+array.fetch(4)
 end
